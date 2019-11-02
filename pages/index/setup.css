@@ -1,0 +1,97 @@
+
+	page {
+		height: auto;
+		min-height: 100%;
+	}
+	.weidulBox {
+		padding: 50upx 30upx;
+		box-shadow: 0upx 0upx 20upx #bbbbbb;
+		display: flex;
+		margin-bottom:25upx;
+	}
+	.weidulimg {
+		width:130upx;
+		height:130upx;
+		border:2upx solid #eeeeee;
+		border-radius: 50%;
+		overflow: hidden;
+	}
+	.weidulimg image {
+		width:100%;
+		height:100%;
+	}
+	.weidultxe {
+		flex: 1;
+		padding-left:30upx;
+	}
+	.weidulBtn {
+		display: inline-block;
+		color:#E5B421;
+		font-size: 34upx;
+		font-weight: 600;
+		line-height: 130upx;
+	}
+	
+	
+	
+	.ysetupTopBox {
+		padding:50upx 30upx 30upx 30upx;
+		box-shadow: 0upx 0upx 20upx #bbbbbb;
+		position: relative;
+		margin-bottom:10upx;
+	}
+	.ysetupTop {
+		display: flex;
+	}
+	.ysetupTopImg {
+		width:130upx;
+		height:130upx;
+		border:2upx solid #eeeeee;
+		border-radius: 50%;
+		overflow: hidden;
+	}
+	.ysetupTopImg image {
+		width:100%;
+		height:100%;
+	}
+	.ysetupToptx {
+		flex: 1;
+		padding-left:30upx;
+	}
+	.ysetupToptxmz {
+		margin:15upx 0upx;
+	}
+	.ysetupToptxmz .text_1 {
+		color:#333333;
+		font-weight:600;
+		font-size:28upx;
+		margin-right:25upx;
+	}
+	.ysetupToptxmz .text_2 {
+		color:#FBA81F;
+		font-size:28upx;
+	}
+	.ysetupTopcz {
+		padding-top:50upx;
+		color:#666666;
+		font-size:28upx;
+	}
+	.ysetupToptxxj {
+		color:#666666;
+	}
+	.fx1 {
+		-webkit-flex: 1;
+		flex: 1;
+	}
+	.pjltxshuBox {
+		text-align: center;
+		background: #F8F8F8;
+		padding: 15upx 0upx;
+		border-radius: 6upx;
+		margin-top: 15upx;
+	}
+	.pjltxTx {
+		color: #666666;
+		font-size: 26upx;
+		margin-top: 5upx;
+	}

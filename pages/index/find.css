@@ -1,0 +1,60 @@
+
+	page {
+		height: auto;
+		min-height: 100%;
+	}
+	.fabuTopBox {
+		position: relative;
+	}
+	.fabuTopBox image {
+		width:100%;
+		height:500upx;
+	}
+	.fabuToptl {
+		position: absolute;
+		top:50upx;
+		left:30upx;
+		font-size:36upx;
+		color:#000000;
+		z-index: 10;
+		text-shadow: 0px 0px 1px #bbbbbb;
+	}
+	.fabuCOntBox {
+		position: relative;
+		top:-120upx;
+		padding:0upx 30upx;
+		height:680upx;
+	}
+	.fabuCOnt {
+		background: #ffffff;
+		box-shadow: 0px 0px 20upx #dddddd;
+		padding:30upx 10upx 20upx 0upx;
+		display: flex;
+		margin-bottom:25upx;
+	}
+	.fabuCOntziji {
+		flex: 1;
+		text-align: center;
+	}
+	.fabuCOntlt {
+		width:100upx;
+		display: inline-block;
+		padding-bottom:20upx;
+	}
+	.fabuCOntlt image {
+		width:100upx;
+		height:100upx;
+	}
+	.fabuCOntrt {
+		flex: 1;
+	}
+	.fabuCOntrttl {
+		color:#333333;
+		font-size:32upx;
+		font-weight: 700;
+		margin-top:10upx;
+	}
+	.fabuCOntrttx {
+		color:#666666;
+		font-size: 24upx;
+	}

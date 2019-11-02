@@ -1,0 +1,55 @@
+page {
+	background: #F6F6F6;
+}
+
+.sitesTop {
+	background: #ffffff;
+	display: flex;
+	padding: 30upx;
+	margin-bottom: 25upx;
+}
+
+.sitesimg {
+	display: inline-block;
+	width: 100upx;
+	height: 100upx;
+	border-radius: 50%;
+	border: 1px solid #eeeeee;
+	overflow: hidden;
+	margin-top: 20upx;
+}
+
+.sitesimg image {
+	width: 100%;
+	height: 100%;
+}
+
+.siteszhBox {
+	flex: 1;
+	padding: 0upx 40upx 0upx 30upx;
+}
+
+.siteszhmz {
+	font-size: 32upx;
+	color: #333333;
+}
+
+.siteszzym {
+	line-height: 44upx;
+}
+
+.siteszzym text {
+	font-size: 24upx;
+}
+
+.siteszzym .text_1 {
+	color: #777777;
+}
+
+.siteszzym .text_2 {
+	color: #333333;
+}
+
+.siteszzym .text_3 {
+	color: #f00000;
+}

@@ -1,0 +1,242 @@
+page {
+	height: auto;
+	min-height: 100%;
+}
+
+view {
+	font-size: 28upx;
+	line-height: inherit
+}
+
+.example {
+	padding: 0 30upx 30upx
+}
+
+.example-title {
+	font-size: 32upx;
+	line-height: 32upx;
+	color: #777;
+	margin: 40upx 25upx;
+	position: relative
+}
+
+.example .example-title {
+	margin: 40upx 0
+}
+
+.example-body {
+	padding: 0 40upx
+}
+
+.uni-common-mt {
+	color: #7a7e83;
+	font-size: 28upx;
+	padding: 30upx;
+}
+
+.title {
+	font-size: 15px;
+	line-height: 20px;
+	color: #333333;
+	padding: 15px;
+}
+
+.city {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	width: 100%;
+	margin-left: 8px;
+	white-space: nowrap;
+}
+
+.input-view {
+	width: 92%;
+	display: flex;
+	background-color: #e7e7e7;
+	height: 30px;
+	border-radius: 15px;
+	padding: 0 4%;
+	flex-wrap: nowrap;
+	margin: 7px 0;
+	line-height: 30px;
+}
+
+.input-view .uni-icon {
+	line-height: 30px !important;
+}
+
+.input-view .input {
+	height: 30px;
+	line-height: 30px;
+	width: 94%;
+	padding: 0 3%;
+}
+
+.uninavbaheaderleft {
+	width: 0px !important;
+}
+
+.history-title {
+	display: flex;
+	justify-content: space-between;
+	padding: 20upx 30upx;
+	padding-bottom: 0;
+	font-size: 34upx;
+	color: #333;
+}
+
+.history-title .uni-icon {
+	font-size: 40upx;
+}
+
+.history-content {
+	display: flex;
+	flex-wrap: wrap;
+	padding: 15upx;
+}
+
+.history-item {
+	padding: 4upx 35upx;
+	border: 1px #f1f1f1 solid;
+	background: #fff;
+	border-radius: 50upx;
+	margin: 12upx 10upx;
+	color: #999;
+}
+
+.history-list-box {
+	/* margin: 10upx 0; */
+}
+
+.history-list-item {
+	padding: 30upx 0;
+	margin-left: 30upx;
+	border-bottom: 1px #EEEEEE solid;
+	font-size: 28upx;
+}
+
+.no-data {
+	text-align: center;
+	color: #999;
+	margin: 100upx;
+}
+
+.findcontBox {
+	padding: 10upx 20upx 10upx 20upx;
+}
+
+.findconnerBox {
+	padding: 10upx 0upx;
+	position: relative;
+}
+
+.findconnerhz {
+	display: flex;
+	padding: 10upx;
+	box-shadow: 0upx 0upx 20upx #dddddd;
+}
+
+.findconntishi {
+	position: absolute;
+	top: 10upx;
+	right: 0upx;
+	background: #FBA51B;
+	padding: 0upx 6upx;
+	font-size: 22upx;
+	color: #ffffff;
+	height: 40upx;
+	line-height: 40upx;
+	z-index: 10;
+}
+
+.findcerhzimgrm {
+	width: 220upx;
+	height: 150upx;
+	overflow: hidden;
+	border: 1px solid #eeeeee;
+	position: relative;
+}
+
+.findcerhzimgrm image {
+	width: 100%;
+	height: 100%;
+}
+
+.firmtisib {
+	position: absolute;
+	top: 0upx;
+	left: 0upx;
+	background: #48B72E;
+	padding: 0upx 6upx;
+	font-size: 26upx;
+	color: #ffffff;
+	height: 40upx;
+	line-height: 40upx;
+}
+
+.findconnerhztx {
+	padding: 0upx 0upx 0upx 20upx;
+	flex: 1;
+}
+
+.dconnerhztxtl {
+	color: #666666;
+	font-size: 30upx;
+}
+
+.dconnerhztxtlrm {
+	color: #333333;
+	font-size: 30upx;
+}
+
+.dconnerhztxzjinrm {
+	color: #F00000;
+	font-size: 30upx;
+	display: inline-block;
+	margin-left: 10upx;
+	line-height: 46upx;
+}
+
+.dconnerhcazuo {
+	display: flex;
+}
+
+.nerhcazuolyan {
+	flex: 1;
+}
+
+.nerhcazuolyantx {
+	color: #999999;
+	font-size: 24upx;
+	line-height: 46upx;
+	width: 280upx;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+.dconnerhyouhdf {
+	display: flex;
+}
+
+.dconnerhyouh {
+	flex: 1;
+}
+
+.dconnerhyouh .text_1 {
+	flex: 1;
+	color: #4C4C4C;
+	background: #DADADA;
+	font-size: 24upx;
+	display: inline-block;
+	margin: 10upx 10upx 0upx 0upx;
+	padding: 0upx 12upx;
+	border-radius: 4upx;
+}
+
+.dconnerquxao {
+	color: #FBA81F;
+	white-space: nowrap;
+}

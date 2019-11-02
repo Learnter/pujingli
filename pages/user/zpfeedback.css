@@ -1,0 +1,40 @@
+.feedbdf {
+	display: flex;
+	padding: 20upx;
+}
+
+.feedbdftl {
+	color: #333333;
+	line-height: 70upx;
+	padding-right: 10upx;
+}
+
+.znhometopshrtxz {
+	height: 70upx;
+	line-height: 70upx;
+	border: 1px solid #EFEFEF;
+	padding: 0upx 40upx;
+
+}
+
+.unTextareaBox {
+	padding: 20upx;
+}
+
+.unTextarea {
+	border: 1px solid #EFEFEF;
+	border-radius: 6upx;
+}
+
+.unTextaAnBox {
+	text-align: right;
+	padding: 30upx 0upx 0upx 0upx;
+}
+
+.unTextaAnBox .mini-btn {
+	background: #FBA81F;
+	border-radius: 6upx;
+	height: 70upx;
+	line-height: 70upx;
+	letter-spacing: 4upx;
+}

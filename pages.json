@@ -1,0 +1,508 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "首页",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/login/login",
+			"style": {
+				"navigationBarTitleText": "登录"
+			}
+		},{
+			"path": "pages/index/choose_city",
+			"style": {
+				"navigationBarTitleText": "城市选择"
+			}
+		},{
+			"path": "pages/user/searchpag",
+			"style": {
+				"navigationBarTitleText": "搜索",
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		},{
+			"path": "pages/index/shopmall",
+			"style": {
+				"navigationBarTitleText": "查看商铺",
+				"enablePullDownRefresh": true
+			}
+		},{
+			"path": "pages/index/find",
+			"style": {
+				"navigationBarTitleText": "发布",
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		},{
+			"path": "pages/index/qnquiry",
+			"style": {
+				"navigationBarTitleText": "开店选址",
+				"app-plus": {
+					"titleNView": false
+				},
+				"enablePullDownRefresh": true
+			}
+		},{
+			"path": "pages/transfer_shop/seeking_detail",
+			"style": {
+				"navigationBarTitleText": "求租详情"
+			}
+		},{
+			"path": "pages/index/setup",
+			"style": {
+				"navigationBarTitleText": "个人",
+				"app-plus": {
+					"titleNView": false
+				},
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/public/stay",
+			"style": {
+				"navigationBarTitleText": "温馨提示"
+			}
+		},
+		{
+			"path": "pages/transfer_shop/collection_list",
+			"style": {
+				"navigationBarTitleText": "我的收藏"
+			}
+		},
+		{
+			"path": "pages/browse/browse_list",
+			"style": {
+				"navigationBarTitleText": "我的浏览记录"
+			}
+		},
+		{
+			"path": "pages/help/help_list",
+			"style": {
+				"navigationBarTitleText": "帮助与反馈"
+			}
+		},
+		{
+			"path": "pages/user/zpfeedback",
+			"style": {
+				"navigationBarTitleText": "反馈"
+			}
+		},
+		{
+			"path": "pages/rent/release_rent/index",
+			"style": {
+				"navigationBarTitleText": "发布转租"
+			}
+		},
+		{
+			"path": "pages/rent/release_rent/zpbasicdata",
+			"style": {
+				"navigationBarTitleText": "基本信息"
+			}
+		},
+		{
+			"path": "pages/rent/release_rent/hotohop",
+			"style": {
+				"navigationBarTitleText": "上传商铺照片"
+			}
+		},
+		{
+			"path": "pages/rent/release_rent/shguide",
+			"style": {
+				"navigationBarTitleText": "拍摄指南"
+			}
+		},
+		{
+			"path": "pages/rent/release_rent/mentonsh",
+			"style": {
+				"navigationBarTitleText": "点评我的商铺"
+			}
+		},
+		{
+			"path": "pages/rent/release_rent/hopsocum",
+			"style": {
+				"navigationBarTitleText": "上传商铺证件照"
+			}
+		},
+		{
+			"path": "pages/rent/release_rent/loavideo",
+			"style": {
+				"navigationBarTitleText": "上传商铺视频"
+			}
+		},
+		{
+			"path": "pages/release/release_list",
+			"style": {
+				"navigationBarTitleText": "我的发布"
+			}
+		},
+		{
+			"path": "pages/user/postnqury",
+			"style": {
+				"navigationBarTitleText": "发布求租"
+			}
+		},
+		{
+			"path": "pages/transfer_shop/release_transfer_shop/index",
+			"style": {
+				"navigationBarTitleText": "发布转租"
+			}
+		},
+		{
+			"path": "pages/transfer_shop/release_transfer_shop/zpbasicdata",
+			"style": {
+				"navigationBarTitleText": "基本信息"
+			}
+		},
+		{
+			"path": "pages/transfer_shop/release_transfer_shop/hotohop",
+			"style": {
+				"navigationBarTitleText": "上传商铺照片"
+			}
+		},
+		{
+			"path": "pages/transfer_shop/release_transfer_shop/shguide",
+			"style": {
+				"navigationBarTitleText": "拍摄指南"
+			}
+		},
+		{
+			"path": "pages/transfer_shop/release_transfer_shop/mentonsh",
+			"style": {
+				"navigationBarTitleText": "点评我的商铺"
+			}
+		},
+		{
+			"path": "pages/transfer_shop/release_transfer_shop/loavideo",
+			"style": {
+				"navigationBarTitleText": "上传商铺视频"
+			}
+		},
+		{
+			"path": "pages/transfer_shop/release_transfer_shop/hopsocum",
+			"style": {
+				"navigationBarTitleText": "上传商铺证件照"
+			}
+		},
+		{
+			"path": "pages/transfer_shop/transfer_shop_detail",
+			"style": {
+				"navigationBarTitleText": "详情",
+				"app-plus": {
+					"titleNView": {
+						"type": "transparent",
+						"buttons": [{
+							"type": "share"
+						}]
+					}
+				},
+				"h5": {
+					"titleNView": {
+						"type": "transparent",
+						"buttons": []
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/transfer_shop/transfer_shop_error_correction",
+			"style": {
+				"navigationBarTitleText": "纠错"
+			}
+		},
+		{
+			"path": "pages/transfer_shop/transfer_shop_list",
+			"style": {
+				"navigationBarTitleText": "转铺列表",
+				"enablePullDownRefresh": true
+			}
+		},
+      {
+        "path": "pages/rent/rent_list",
+        "style": {
+          "navigationBarTitleText": "出租列表",
+          "enablePullDownRefresh": true
+        }
+      },
+		{
+			"path": "pages/user/shopolite",
+			"style": {
+				"navigationBarTitleText": "租铺有礼"
+			}
+		},
+		{
+			"path": "pages/user/sharple",
+			"style": {
+				"navigationBarTitleText": "分享有礼"
+			}
+		},
+		{
+			"path": "pages/notice/notice_list",
+			"style": {
+				"navigationBarTitleText": "公告",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/notice/notice_detail",
+			"style": {
+				"navigationBarTitleText": "公告详情"
+			}
+		},
+		{
+			"path": "pages/user/sitespec",
+			"style": {
+				"navigationBarTitleText": "选址专家"
+			}
+		},
+		{
+			"path": "pages/user/sitespectdui",
+			"style": {
+				"navigationBarTitleText": "选址专家团队",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/success_case/detail",
+			"style": {
+				"navigationBarTitleText": "成交案例详情"
+			}
+		},
+		{
+			"path": "pages/success_case/list",
+			"style": {
+				"navigationBarTitleText": "成交案例",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/partner/partner_list",
+			"style": {
+				"navigationBarTitleText": "选址合作商",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/partner/partner_detail",
+			"style": {
+				"navigationBarTitleText": "选址合作商"
+			}
+		},
+		{
+			"path": "pages/shop_ask/index",
+			"style": {
+				"navigationBarTitleText": "开店问答",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/shop_ask/detail",
+			"style": {
+				"navigationBarTitleText": "问答详情"
+			}
+		},
+		{
+			"path": "pages/shop_ask/search",
+			"style": {
+				"navigationBarTitleText": "搜索问题"
+			}
+		},
+		{
+			"path": "pages/shop_ask/question",
+			"style": {
+				"navigationBarTitleText": "发布问题"
+			}
+		},
+		{
+			"path": "pages/messagebox/messagelist",
+			"style": {
+				"navigationBarTitleText": "站内信",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/messagebox/message_detail",
+			"style": {
+				"navigationBarTitleText": "站内信详情"
+			}
+		},
+        {
+            "path" : "pages/transfer_shop/nearby_shops",
+			"style": {
+				"navigationBarTitleText": "附近店铺"
+			}
+        },
+        {
+            "path" : "pages/user/myorder",
+			"style": {
+				"navigationBarTitleText": "我的订单"
+			}
+        },
+        {
+            "path" : "pages/problem/problem_detail",
+            "style" : {
+				"navigationBarTitleText": "常见问题详情"
+			}
+        },
+        {
+            "path" : "pages/recruit/recrlist",
+            "style" : {
+				"navigationBarTitleText": "人才招聘"
+			}
+        },
+        {
+            "path" : "pages/recruit/recrdata",
+            "style" : {
+				"navigationBarTitleText": "职位详情"
+			}
+        },
+        {
+            "path" : "pages/recruit/applyfor",
+            "style" : {
+				"navigationBarTitleText": "完善信息"
+			}
+        },
+        {
+            "path" : "pages/recruit/applyfortwo",
+            "style" : {
+				"navigationBarTitleText": "完善信息"
+			}
+        },
+        {
+            "path" : "pages/user/order_pay",
+            "style" : {
+				"navigationBarTitleText": "订单支付"
+			}
+        },
+        {
+            "path" : "pages/charge/servefw",
+            "style" : {
+				"navigationBarTitleText": "转租铺服务"
+			}
+        },
+        {
+            "path" : "pages/charge/myredpac",
+            "style" : {
+				"navigationBarTitleText": "我的红包"
+			}
+        }
+        ,{
+            "path" : "pages/transfer_shop/success_transfer_shop_list",
+            "style" : {
+				"navigationBarTitleText": "成功案例",
+				"enablePullDownRefresh": true
+			}
+        },
+        {
+            "path" : "pages/recommend/recommendma",
+            "style" : {
+				"navigationBarTitleText": "邀请码"
+			}
+        },
+        {
+            "path" : "pages/recommend/recommendlist",
+            "style" : {
+				"navigationBarTitleText": "邀请记录"
+			}
+        },
+        {
+            "path" : "pages/thdrawhe/thdrawjf",
+            "style" : {
+				"navigationBarTitleText": "积分"
+			}
+        },
+        {
+            "path" : "pages/money/money_log", 
+            "style" : {
+				"navigationBarTitleText": "钱包日志",
+				"enablePullDownRefresh": true
+			}
+        },
+        {
+            "path" : "pages/money/withdraw", 
+            "style" : {
+				"navigationBarTitleText": "我要提现"
+			}
+        },
+        {
+            "path" : "pages/money/withdraw_log", 
+            "style" : {
+				"navigationBarTitleText": "提现记录",
+				"enablePullDownRefresh": true
+			}
+        }
+    ],
+	"window": {
+		"withShareTicket": true
+	},
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#999999",
+		"selectedColor": "#FBA81F",
+		"borderStyle": "black",
+		"backgroundColor": "#ffffff",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/images/zpzp_17.png",
+				"selectedIconPath": "static/images/zpzp_16.png",
+				"text": "首页"
+			},
+			{
+				"pagePath": "pages/index/shopmall",
+				"iconPath": "static/images/zpzp_19.png",
+				"selectedIconPath": "static/images/zpzp_18.png",
+				"text": "商铺转让"
+			},
+			{
+				"pagePath": "pages/index/find",
+				"iconPath": "static/images/zpzp_21.png",
+				"selectedIconPath": "static/images/zpzp_20.png",
+				"text": "发布"
+			},
+			{
+				"pagePath": "pages/index/qnquiry",
+				"iconPath": "static/images/zpzp_93.png",
+				"selectedIconPath": "static/images/zpzp_94.png",
+				"text": "开店选址"
+			},
+			{
+				"pagePath": "pages/index/setup",
+				"iconPath": "static/images/zpzp_23.png",
+				"selectedIconPath": "static/images/zpzp_22.png",
+				"text": "个人"
+			}
+		]
+	/* },
+	
+	
+	"condition": { //模式配置，仅开发期间生效
+		"current": 0, //当前激活的模式（list 的索引项）
+		"list": [
+			{
+				"name": "发布转租",
+				"path": "pages/transfer_shop/release_transfer_shop/index", 
+				"query": "" 
+			},
+			{
+				"name": "登录",
+				"path": "pages/login/login", 
+				"query": "" 
+			},
+			{
+				"name": "首页",
+				"path": "pages/index/index", 
+				"query": "" 
+			}
+		] */
+	}
+}

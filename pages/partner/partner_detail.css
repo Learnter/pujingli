@@ -1,0 +1,135 @@
+.noticdataBox {
+	padding: 20upx;
+	text-align: justify;
+}
+
+.noticdatatl {
+	font-size: 32upx;
+	color: #333333;
+	text-align: center;
+}
+
+.findcotime {
+	color: #888888;
+	font-size: 20upx;
+	text-align: right;
+	border-bottom: 2upx solid #eeeeee;
+	padding: 10upx 0upx 15upx 00upx;
+	margin-bottom: 15upx;
+}
+
+.noticdatacont {
+	margin-bottom: 30upx;
+	color: #333333;
+}
+
+.noticdatacont image {
+	min-width: 100%;
+	margin: 10upx 0upx;
+}
+
+.noticdshx {
+	color: #333333;
+	margin-bottom: 10upx;
+	display: flex;
+}
+
+.noticdshx text {
+	color: #333333;
+	display: inline-block;
+}
+
+.noticdshx .text_1 {
+	display: inline-block;
+	width: 450upx;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	padding-left: 20upx;
+}
+
+.meorcontBox {
+	font-size: 26upx;
+	color: #666666;
+}
+
+.meorcontBox img {
+	width: 100% !important;
+}
+
+.meorcontBox image {
+	width: 100% !important;
+}
+
+.pabottomBox {
+	position: fixed;
+	left: 0upx;
+	bottom: 0upx;
+	width: 100%;
+	height: 90upx;
+	border-top: 2upx solid #E9E9EB;
+	z-index: 100;
+	background: #ffffff;
+}
+
+.pabottomHe {
+	display: flex;
+	padding: 15upx 20upx 0upx 20upx;
+}
+
+.pabottomdata {
+	flex: 1;
+}
+
+.pabottomdatxt {
+	font-size: 26upx;
+	color: #333333;
+	font-weight: 600;
+	line-height: 30upx;
+}
+
+.pabottomimg {
+	margin-left: 30upx;
+	padding-top: 10upx;
+}
+
+.pabottomimg image {
+	height: 40upx;
+	width: 40upx;
+}
+
+.pardadabox {
+	padding-bottom: 90upx;
+}
+
+.pardtbudimg image {
+	width: 100%;
+	height: 350upx;
+}
+
+.pardtbudimg img {
+	width: 100%;
+}
+
+.datasadBox {
+	padding: 20upx;
+	border-bottom: 20upx solid #E9E9EB;
+}
+
+.datasadHe {
+	display: flex;
+	border-bottom: 2upx solid #E9E9EB;
+	padding: 12upx 0upx;
+}
+
+.datasadmc {
+	flex: 1;
+	font-size: 26upx;
+	color: #3333333;
+	letter-spacing: 5upx;
+}
+
+.datasadmshu {
+	font-size: 24upx;
+	color: #666666;
+}

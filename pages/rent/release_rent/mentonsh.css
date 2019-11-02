@@ -1,0 +1,105 @@
+.potnqTopBox {
+	padding: 30upx;
+	display: flex;
+	background: #FFB53D;
+	background: -ms-linear-gradient(top, #FFB53D, #FFE045);
+	background: -moz-linear-gradient(top, #FFB53D, #FFE045);
+	background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#FFB53D), to(#FFE045));
+	background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#FFB53D), to(#FFE045));
+	background: -webkit-linear-gradient(top, #FFB53D, #FFE045);
+	background: -o-linear-gradient(top, #FFB53D, #FFE045);
+}
+
+.potnqTopimg {
+	width: 100upx;
+	height: 100upx;
+	border-radius: 50%;
+	overflow: hidden;
+	text-align: center;
+	margin-right: 30upx;
+}
+
+.potnqTopimg image {
+	width: 100%;
+	height: 100%;
+}
+
+.potnqTopTxtl {
+	color: #4B3A11;
+	font-size: 32upx;
+}
+
+.potnqTopTxtltx {
+	color: #897A56;
+}
+
+.potnqlistBox {
+	padding: 0upx 30upx 100upx 30upx;
+}
+
+.potnqlist {
+	display: flex;
+	margin-top: 30upx;
+}
+
+.potnqlistl {
+	color: #333333;
+	min-width: 160upx;
+	height: 70upx;
+	line-height: 70upx;
+}
+
+.potnqlistx {
+	flex: 1;
+	height: 72upx;
+	line-height: 72upx;
+	border-bottom: 2upx solid #eeeeee;
+}
+
+.potnredoutl {
+	color: #333333;
+	min-width: 160upx;
+	height: 70upx;
+	line-height: 70upx;
+	flex: 1;
+}
+
+.potnqredou {
+	height: 72upx;
+	line-height: 72upx;
+}
+
+.potnqlistx .uni-input {
+	padding: 0upx;
+	height: 70upx;
+	line-height: 70upx;
+	width: 100%;
+	background: none;
+	color: #666666;
+}
+
+.potnsbBox {
+	position: fixed;
+	left: 0upx;
+	bottom: 0upx;
+	width: 100%;
+	z-index: 90;
+}
+
+.potnsbBox button {
+	background: #FBA81F;
+	border-radius: 0upx;
+}
+
+.potnsbBox button::after {
+	border: none;
+}
+
+.unTextareaBox {
+	padding: 20upx;
+}
+
+.unTextarea {
+	border: 1px solid #EFEFEF;
+	border-radius: 6upx;
+}

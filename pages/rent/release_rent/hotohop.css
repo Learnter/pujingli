@@ -1,0 +1,97 @@
+.releabBox {
+	padding-bottom: 100upx;
+}
+
+.releaimaddBox {
+	padding: 20upx 30upx;
+}
+
+.releaimadlt {
+	width: 33.33%;
+	float: left;
+	text-align: center;
+	margin-top: 10upx;
+}
+
+.releaimadcont {
+	display: inline-block;
+	width: 190upx;
+	height: 190upx;
+	border: 2upx solid #eeeeee;
+	text-align: center;
+	position: relative;
+}
+
+.relecle {
+	position: absolute;
+	top: -10px;
+	right: -10px;
+	background: #FF0000;
+	border-radius: 50%;
+	height: 35upx;
+	width: 35upx;
+	line-height: 35upx;
+	text-align: center;
+}
+
+.releaimadcontimg {
+	width: 100%;
+	height: 100%;
+}
+
+.releaimadcontimg image {
+	width: 100%;
+	height: 100%;
+}
+
+.releaban {
+	position: fixed;
+	left: 0upx;
+	bottom: 0upx;
+	width: 100%;
+	z-index: 90;
+}
+
+.releaban button {
+	background: #FBA81F;
+	border-radius: 0upx;
+}
+
+.releaban button::after {
+	border: none;
+}
+
+.releaitianjaBox {
+	padding: 20upx 30upx 0upx 30upx;
+}
+
+.releaitianja {
+	height: 80upx;
+	line-height: 80upx;
+	border-radius: 4upx;
+	background: #F2F2F2;
+	color: #666666;
+	text-align: center;
+}
+
+.hotoTitle {
+	padding: 20upx 30upx;
+}
+
+.hotoTitletl {
+	color: #333333;
+	font-soze: 32upx;
+}
+
+.hotoTitletx {
+	color: #CCCCCC;
+}
+
+.guideAnBox {
+	padding: 30upx;
+}
+
+.guideAn {
+	color: #5C9FFF;
+	text-align: right;
+}

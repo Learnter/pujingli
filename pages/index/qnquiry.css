@@ -1,0 +1,245 @@
+
+	
+	.smaNavBoxpos {
+		height:100upx;
+	}
+	.smaNavBoxpohe {
+		position:fixed;
+		left:0upx;
+		width:100%;
+		height:100upx;
+		background: #ffffff;
+		border-bottom:2upx solid #eeeeee;
+		z-index: 100;
+	}
+	.smaNavBox {
+		display: flex;
+		line-height: 100upx;
+	}
+	.smaNav {
+		flex: 1;
+		text-align: center;
+		color:#333333;
+	}
+	.smaNav .i {
+		margin-left:10upx;
+	}
+  
+  
+	.xunanCont {
+		height:300upx;
+		border-top:2upx solid #eeeeee;
+		line-height: 60upx;
+		text-align: left;
+		padding:20upx;
+		position:relative;
+	}
+	.xunantextBox {
+		height:100%;
+		overflow-y: auto;
+	}
+	.xunantexthe {
+		width:33.3%;
+		float: left;
+		padding:10upx 0upx;
+		text-align: center;
+	}
+	.xunantext {
+		width:88%;
+		height:46upx;
+		line-height: 46upx;
+		text-align: center;
+		display: inline-block;
+		border-radius: 6upx;
+		border:2upx solid #eeeeee;
+		color:#333333;
+		font-size:24upx;
+		overflow: hidden;
+		text-overflow:ellipsis;
+		white-space: nowrap;
+	}
+	.xunantextActive {
+		border-color:#f00000;
+		color:#f00000;
+	}
+	.dxxunatBox {
+		height:500upx;
+		border-top:2upx solid #eeeeee;
+		position: relative;
+	}
+	.dxxunButn {
+		position: absolute;
+		top:-100upx;
+		right:0upx;
+		height:100upx;
+		line-height: 100upx;
+		color:#1AAD19;
+		z-index: 1000000000;
+		padding:0upx 20upx;
+		font-size:30upx;
+	}
+	.xunanNenr {
+		height:100%;
+	}
+	.xunanLeftBocx {
+		width:50%;
+		float: left;
+		height:100%;
+		overflow-y: auto;
+		background: #F6F6F6;
+	}
+	.xunanRightBox {
+		width:50%;
+		float: right;
+		height:100%;
+		overflow-y: auto;
+	}
+	::-webkit-scrollbar {
+	  width: 0;
+	  height: 0;
+	  color: transparent;
+	}
+	.xunanLeft {
+		padding:20upx 30upx;
+		text-align: center;
+	}
+	.xunanRight {
+		background: #ffffff;
+		padding:20upx 30upx;
+	}
+	.xufltext {
+		color:#333333;
+		font-size:24upx;
+		line-height: 80upx;
+	}
+	.xufltext .i {
+		display: none;
+	}
+	.xufltextActive {
+		color:#f00000;
+	}
+	.xufltextActive .i {
+		display: inline-block;
+	}
+	
+  
+	view {
+		font-size: 28upx;
+		line-height: inherit
+	}
+	.znhometopshrtxz {
+		padding-left:20upx;
+	}
+	.example {
+		padding: 0 30upx 30upx
+	}
+	
+	.example-title {
+		font-size: 32upx;
+		line-height: 32upx;
+		color: #777;
+		margin: 40upx 25upx;
+		position: relative
+	}
+	
+	.example .example-title {
+		margin: 40upx 0
+	}
+	
+	.example-body {
+		padding: 0 40upx
+	}
+	
+	.uni-common-mt {
+		color: #7a7e83;
+		font-size: 28upx;
+		padding: 30upx;
+	}
+	
+	.title {
+		font-size: 15px;
+		line-height: 20px;
+		color: #333333;
+		padding: 15px;
+	}
+	
+	.city {
+		display: flex;
+		flex-direction: row;
+		align-items: center;
+		justify-content: center;
+		width: 100%;
+		margin-left: 8px;
+		white-space: nowrap;
+	}
+	
+	.input-view {
+		width: 92%;
+		display: flex;
+		background-color: #e7e7e7;
+		height: 30px;
+		border-radius: 15px;
+		padding: 0 4%;
+		flex-wrap: nowrap;
+		margin: 7px 0;
+		line-height: 30px;
+	}
+	
+	.input-view .uni-icon {
+		line-height: 30px !important;
+	}
+	
+	.input-view .input {
+		height: 30px;
+		line-height: 30px;
+		width: 94%;
+		padding: 0 3%;
+	}
+	.uninavbaheaderright {
+		width:0px !important;
+	}
+	
+	page {
+		height: auto;
+		min-height: 100%;
+	}
+	.qnquNavBox {
+		padding:20upx 25upx;
+		border-bottom:2upx solid #eeeeee;
+	}
+	.qnquNavtl {
+		display: flex;
+		line-height: 50upx;
+		margin-bottom:10upx;
+	}
+	.qnquNavtltx {
+		padding-right:20upx;
+		font-weight: 600;
+		color:#333333;
+		flex: 1;
+	}
+	.qnquNavtime {
+		color:#888888;
+		font-size:20upx;
+		white-space:nowrap;
+	}
+	.qnquCont {
+		display: flex;
+		line-height: 48upx;
+	}
+	.qnquConttl {
+		font-size:24upx;
+		color:#666666;
+		white-space:nowrap;
+		min-width: 150upx;
+	}
+	.qnquConttex_1 {
+		font-size:24upx;
+		color:#333333;
+		flex: 1;
+	}
+	.qnquConttex_2 {
+		font-size:24upx;
+		color:#DD4F42;
+		flex: 1;
+	}

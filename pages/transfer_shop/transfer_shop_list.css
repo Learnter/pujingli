@@ -1,0 +1,342 @@
+page {
+	height: auto;
+	min-height: 100%;
+}
+
+.smaNavBoxpos {
+	height: 100upx;
+}
+
+.smaNavBoxpohe {
+	position: fixed;
+	left: 0upx;
+	width: 100%;
+	height: 100upx;
+	background: #ffffff;
+	border-bottom: 2upx solid #eeeeee;
+	z-index: 100;
+}
+
+.smaNavBox {
+	display: flex;
+	line-height: 100upx;
+}
+
+.smaNav {
+	flex: 1;
+	text-align: center;
+	color: #333333;
+}
+
+.smaNav .i {
+	margin-left: 10upx;
+}
+
+.xunanCont {
+	height: 300upx;
+	border-top: 2upx solid #eeeeee;
+	line-height: 60upx;
+	text-align: left;
+	padding: 20upx;
+	position: relative;
+}
+
+.xunantextBox {
+	height: 100%;
+	overflow-y: auto;
+}
+
+.xunantexthe {
+	width: 33.3%;
+	float: left;
+	padding: 10upx 0upx;
+	text-align: center;
+}
+
+.xunantext {
+	width: 88%;
+	height: 46upx;
+	line-height: 46upx;
+	text-align: center;
+	display: inline-block;
+	border-radius: 6upx;
+	border: 2upx solid #eeeeee;
+	color: #333333;
+	font-size: 24upx;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+.xunantextActive {
+	border-color: #f00000;
+	color: #f00000;
+}
+
+.dxxunatBox {
+	height: 500upx;
+	border-top: 2upx solid #eeeeee;
+	position: relative;
+}
+
+.dxxunButn {
+	position: absolute;
+	top: -100upx;
+	right: 0upx;
+	height: 100upx;
+	line-height: 100upx;
+	color: #1AAD19;
+	z-index: 1000000000;
+	padding: 0upx 20upx;
+	font-size: 30upx;
+}
+
+.xunanNenr {
+	height: 100%;
+}
+
+.xunanLeftBocx {
+	width: 50%;
+	float: left;
+	height: 100%;
+	overflow-y: auto;
+	background: #F6F6F6;
+}
+
+.xunanRightBox {
+	width: 50%;
+	float: right;
+	height: 100%;
+	overflow-y: auto;
+}
+
+::-webkit-scrollbar {
+	width: 0;
+	height: 0;
+	color: transparent;
+}
+
+.xunanLeft {
+	padding: 20upx 30upx;
+	text-align: center;
+}
+
+.xunanRight {
+	background: #ffffff;
+	padding: 20upx 30upx;
+}
+
+.xufltext {
+	color: #333333;
+	font-size: 24upx;
+	line-height: 80upx;
+}
+
+.xufltext .i {
+	display: none;
+}
+
+.xufltextActive {
+	color: #f00000;
+}
+
+.xufltextActive .i {
+	display: inline-block;
+}
+
+view {
+	font-size: 28upx;
+	line-height: inherit
+}
+
+.znhometopshrtxz {
+	padding-left: 20upx;
+}
+
+.example {
+	padding: 0 30upx 30upx
+}
+
+.example-title {
+	font-size: 32upx;
+	line-height: 32upx;
+	color: #777;
+	margin: 40upx 25upx;
+	position: relative
+}
+
+.example .example-title {
+	margin: 40upx 0
+}
+
+.example-body {
+	padding: 0 40upx
+}
+
+.uni-common-mt {
+	color: #7a7e83;
+	font-size: 28upx;
+	padding: 30upx;
+}
+
+.title {
+	font-size: 15px;
+	line-height: 20px;
+	color: #333333;
+	padding: 15px;
+}
+
+.city {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	width: 100%;
+	margin-left: 8px;
+	white-space: nowrap;
+}
+
+.input-view {
+	width: 92%;
+	display: flex;
+	background-color: #e7e7e7;
+	height: 30px;
+	border-radius: 15px;
+	padding: 0 4%;
+	flex-wrap: nowrap;
+	margin: 7px 0;
+	line-height: 30px;
+}
+
+.input-view .uni-icon {
+	line-height: 30px !important;
+}
+
+.input-view .input {
+	height: 30px;
+	line-height: 30px;
+	width: 94%;
+	padding: 0 3%;
+}
+
+.uninavbaheaderright {
+	width: 0px !important;
+}
+
+.findcontBox {
+	padding: 10upx 20upx 10upx 20upx;
+}
+
+.findconnerBox {
+	padding: 10upx 0upx;
+	position: relative;
+}
+
+.findconnerhz {
+	display: flex;
+	padding: 10upx;
+	box-shadow: 0upx 0upx 20upx #dddddd;
+}
+
+.findconntishi {
+	position: absolute;
+	top: 10upx;
+	right: 0upx;
+	background: #FBA51B;
+	padding: 0upx 6upx;
+	font-size: 22upx;
+	color: #ffffff;
+	height: 40upx;
+	line-height: 40upx;
+	z-index: 10;
+}
+
+.findcerhzimgrm {
+	width: 220upx;
+	height: 150upx;
+	overflow: hidden;
+	border: 1px solid #eeeeee;
+	position: relative;
+}
+
+.findcerhzimgrm image {
+	width: 100%;
+	height: 100%;
+}
+
+.firmtisib {
+	position: absolute;
+	top: 0upx;
+	left: 0upx;
+	background: #48B72E;
+	padding: 0upx 6upx;
+	font-size: 26upx;
+	color: #ffffff;
+	height: 40upx;
+	line-height: 40upx;
+}
+
+.findconnerhztx {
+	padding: 0upx 0upx 0upx 20upx;
+	flex: 1;
+}
+
+.dconnerhztxtl {
+	color: #666666;
+	font-size: 30upx;
+}
+
+.dconnerhztxtlrm {
+	color: #333333;
+	font-size: 30upx;
+}
+
+.dconnerhztxzjinrm {
+	color: #F00000;
+	font-size: 30upx;
+	display: inline-block;
+	margin-left: 10upx;
+	line-height: 46upx;
+}
+
+.dconnerhcazuo {
+	display: flex;
+}
+
+.nerhcazuolyan {
+	flex: 1;
+}
+
+.nerhcazuolyantx {
+	color: #999999;
+	font-size: 24upx;
+	line-height: 46upx;
+	width: 280upx;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+.dconnerhyouhdf {
+	display: flex;
+}
+
+.dconnerhyouh {
+	flex: 1;
+}
+
+.dconnerhyouh .text_1 {
+	flex: 1;
+	color: #4C4C4C;
+	background: #DADADA;
+	font-size: 24upx;
+	display: inline-block;
+	margin: 10upx 10upx 0upx 0upx;
+	padding: 0upx 12upx;
+	border-radius: 4upx;
+}
+
+.dconnerquxao {
+	color: #FBA81F;
+	white-space: nowrap;
+}

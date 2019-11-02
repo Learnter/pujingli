@@ -1,0 +1,51 @@
+page {
+	background: #F6F6F6;
+}
+
+.mesgBox {
+	padding: 13upx 30upx;
+}
+
+.mesgListHe {
+	padding: 13upx 0upx;
+}
+
+.mesgListime {
+	padding-bottom: 25upx;
+	text-align: center;
+	color: #888888;
+}
+
+.mesgListCont {
+	padding: 20upx;
+	border-radius: 8upx;
+	border: 2upx solid #eeeeee;
+	background: #ffffff;
+}
+
+.gListContText {
+	height: 96upx;
+	line-height: 48upx;
+	color: #333333;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	display: -webkit-box;
+	-webkit-line-clamp: 2;
+	-webkit-box-orient: vertical;
+}
+
+.gListContText .i {
+	margin-right: 10upx;
+}
+
+.gListchkan {
+	display: flex;
+	margin-top: 20upx;
+	padding: 20upx 0upx 0upx 5upx;
+	border-top: 2upx solid #eeeeee;
+}
+
+.gListchkantext {
+	color: #888888;
+	flex: 1;
+}

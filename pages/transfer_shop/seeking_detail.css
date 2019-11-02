@@ -1,0 +1,74 @@
+.releabBox {
+	padding-bottom: 100upx;
+}
+
+.qzdaTlBox {
+	padding: 25upx 30upx;
+	border-bottom: 6upx solid #f4f4f4;
+}
+
+.qzdaConda {
+	padding: 25upx 30upx;
+	border-bottom: 6upx solid #f4f4f4;
+}
+
+.qnquCont {
+	display: flex;
+	line-height: 48upx;
+	margin-bottom: 15upx;
+}
+
+.qnquConttl {
+	font-size: 24upx;
+	color: #666666;
+	white-space: nowrap;
+	min-width: 150upx;
+}
+
+.qnquConttex_1 {
+	font-size: 24upx;
+	color: #333333;
+	flex: 1;
+}
+
+.qnquConttex_2 {
+	font-size: 24upx;
+	color: #DD4F42;
+	flex: 1;
+}
+
+.qzdaTltl {
+	font-size: 34upx;
+	color: #333333;
+	font-weight: 600;
+	margin-bottom: 15upx;
+}
+
+.qzdaTlllci text {
+	font-size: 18upx;
+	color: #888888;
+	margin-right: 6upx;
+}
+
+.guideAnBox {
+	position: fixed;
+	left: 0px;
+	bottom: 0px;
+	width: 100%;
+	z-index: 100;
+}
+
+.guideAn {
+	width: 100%;
+	height: 92upx;
+	line-height: 92upx;
+	color: #ffffff;
+	background: #FBA81F;
+	text-align: center;
+	border-top: 2upx solid #eeeeee;
+}
+
+.guideAn .i {
+	display: inline-block;
+	margin-right: 8upx;
+}

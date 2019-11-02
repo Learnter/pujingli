@@ -1,0 +1,235 @@
+page {
+	background: #EAEAEA;
+}
+
+.sitjindutHe {
+	width: 80%;
+	margin: 0 auto;
+	display: flex;
+	padding: 20upx 0upx;
+}
+
+.sitjinhex {
+	flex: 1;
+	height: 20upx;
+	background: #EAEAEA;
+	position: relative;
+	margin-top: 10upx;
+}
+
+.sitjinhexzi {
+	height: 100%;
+	position: absolute;
+	left: 0upx;
+	top: 0upx;
+	background: #F93637;
+}
+
+.sitjinheshuj {
+	width: 180upx;
+	text-align: right;
+	color: #333333;
+	font-size: 30upx;
+	line-height: 40upx;
+}
+
+.sitjindtext {
+	width: 80%;
+	margin: 0 auto;
+	text-align: right;
+	padding-bottom: 30upx;
+}
+
+.sitjindtext text {
+	font-size: 24upx;
+	display: inline-block;
+	margin-left: 20upx;
+	color: #888888;
+}
+
+.sitshujuBox {
+	display: flex;
+	margin-bottom: 20upx;
+	padding-bottom: 10upx;
+	border-bottom: 2upx solid #eeeeee;
+}
+
+.sitshujufx {
+	flex: 1;
+	text-align: center;
+}
+
+.sitshujutx {
+	font-size: 26upx;
+	color: #333333;
+	line-height: 30upx;
+}
+
+.sitshushu {
+	font-size: 26upx;
+	color: #DD4F42;
+	line-height: 70upx;
+}
+
+.sitesbottomBox {
+	position: fixed;
+	z-index: 100;
+	background: #ffffff;
+	left: 0px;
+	bottom: 0px;
+	width: 100%;
+	height: 100upx;
+	display: flex;
+	border-top: 2upx solid #eeeeee;
+}
+
+.sitesbottom {
+	flex: 1;
+	padding: 10upx 0upx 0upx 25upx;
+}
+
+.sitesbottomtx {
+	font-size: 24upx;
+	color: #333333;
+	line-height: 40upx;
+}
+
+.sitesbottomimg {
+	padding: 20upx 25upx 0upx 0upx;
+}
+
+.sitesbottomimg image {
+	height: 60upx;
+	width: 60upx;
+}
+
+.sitesTBox {
+	padding-bottom: 100upx;
+}
+
+.sitesTop {
+	background: #F55759;
+	background: -webkit-linear-gradient(30deg, #F55759, #FC1717);
+	padding: 100upx 10upx;
+	text-align: center;
+}
+
+.sitesTop image {
+	height: 70upx;
+	width: 260upx;
+}
+
+.sitesdataBox {
+	background: #ffffff;
+	margin-bottom: 20upx;
+}
+
+.sitesdatatop {
+	position: relative;
+	top: -50upx;
+	text-align: center;
+}
+
+
+.sitesimg {
+	display: inline-block;
+	width: 100upx;
+	height: 100upx;
+	border-radius: 50%;
+	border: 1px solid #eeeeee;
+	overflow: hidden;
+}
+
+.sitesimg image {
+	width: 100%;
+	height: 100%;
+}
+
+.siteszhmz {
+	font-size: 30upx;
+	color: #333333;
+}
+
+.siteszhdianh {
+	line-height: 44upx;
+	color: #777777;
+	font-size: 24upx;
+}
+
+.siteszzym {
+	line-height: 44upx;
+}
+
+.siteszzym text {
+	font-size: 26upx;
+}
+
+.siteszzym .text_1 {
+	color: #777777;
+}
+
+.siteszzym .text_2 {
+	color: #333333;
+}
+
+.siteszzxun {
+	text-align: center;
+}
+
+.siteszzxun .zxun {
+	color: #f00000;
+	font-size: 20upx;
+}
+
+.sitesMidBox {
+	background: #ffffff;
+	padding: 30upx;
+	margin-bottom: 25upx;
+}
+
+.sitesMidtl {
+	font-size: 32upx;
+	color: #333333;
+	margin-bottom: 20upx;
+	border-bottom: 2upx solid #eeeeee;
+	padding-bottom: 15upx;
+}
+
+.qnquCont {
+	display: flex;
+	line-height: 48upx;
+	margin-bottom: 15upx;
+}
+
+.qnquConttl {
+	font-size: 26upx;
+	color: #666666;
+	white-space: nowrap;
+	min-width: 150upx;
+}
+
+.qnquConttex_1 {
+	font-size: 26upx;
+	color: #333333;
+	flex: 1;
+}
+
+.qnquConttex_1 .text_1 {
+	color: #DD4F42;
+	margin-right: 10upx;
+}
+
+.sitesbottmBox {
+	background: #ffffff;
+	padding: 30upx;
+}
+
+.sitesbottmtl {
+	font-size: 32upx;
+	color: #333333;
+	margin-bottom: 35upx;
+}
+
+video {
+	width: 100%;
+}

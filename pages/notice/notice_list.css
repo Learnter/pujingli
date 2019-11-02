@@ -1,0 +1,56 @@
+.noticListBox {
+	padding: 10upx 20upx 10upx 20upx;
+}
+
+.findconnerBox {
+	padding: 10upx 0upx;
+}
+
+.findconnerhz {
+	display: flex;
+	padding: 10upx;
+	box-shadow: 0upx 0upx 20upx #dddddd;
+}
+
+.findcerhzimgrm {
+	width: 200upx;
+	height: 135upx;
+	overflow: hidden;
+	border: 1px solid #eeeeee;
+	position: relative;
+}
+
+.findcerhzimgrm image {
+	width: 100%;
+	height: 100%;
+}
+
+.findconnerhztx {
+	padding: 0upx 0upx 0upx 20upx;
+	flex: 1;
+}
+
+.findconnencon {
+	width: 450upx;
+}
+
+.findcotime {
+	color: #888888;
+	font-size: 20upx;
+}
+
+.findcotil {
+	font-size: 30upx;
+	color: #333333;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+.findcotmshu {
+	font-size: 24upx;
+	color: #666666;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}

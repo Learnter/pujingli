@@ -1,0 +1,49 @@
+.noticdataBox {
+	padding: 20upx;
+	text-align: justify;
+}
+
+.noticdatatl {
+	font-size: 32upx;
+	color: #333333;
+	text-align: center;
+}
+
+.findcotime {
+	color: #888888;
+	font-size: 20upx;
+	text-align: right;
+	border-bottom: 2upx solid #eeeeee;
+	padding: 10upx 0upx 15upx 00upx;
+	margin-bottom: 15upx;
+}
+
+.noticdatacont {
+	margin-bottom: 30upx;
+	color: #333333;
+}
+
+.noticdatacont image {
+	min-width: 100%;
+	margin: 10upx 0upx;
+}
+
+.noticdshx {
+	color: #333333;
+	margin-bottom: 10upx;
+	display: flex;
+}
+
+.noticdshx text {
+	color: #333333;
+	display: inline-block;
+}
+
+.noticdshx .text_1 {
+	display: inline-block;
+	width: 450upx;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	padding-left: 20upx;
+}

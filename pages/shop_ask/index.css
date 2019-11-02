@@ -1,0 +1,124 @@
+.questhTopBox {
+	height: 176upx;
+	background: #ffffff;
+}
+
+.questhTopCont {
+	position: fixed;
+	left: 0px;
+	width: 100%;
+	height: 176upx;
+	z-index: 100;
+	background: #ffffff;
+}
+
+.quhsoskBox {
+	background: ffffff;
+	border-bottom: 2upx solid #eeeeee;
+	display: flex;
+	padding: 14upx 20upx;
+}
+
+.quhsoskOne {
+	flex: 1;
+}
+
+.quhsoskOnelink {
+	height: 60upx;
+	line-height: 60upx;
+	border-radius: 30upx;
+	background: #E7E7E7;
+	padding: 0upx 20upx;
+}
+
+.quhsoskOnelink text {
+	color: #666666;
+}
+
+.quhsoskTwolink {
+	height: 60upx;
+	line-height: 60upx;
+	border-radius: 6upx;
+	background: #f00000;
+	padding: 0upx 12upx;
+	margin-left: 25upx;
+}
+
+.quhsoskTwolink text {
+	color: #ffffff;
+}
+
+.topsbgydaBox {
+	height: 80upx;
+	background: #ffffff;
+}
+
+.topsbgyCont {
+	background: #ffffff;
+	border-bottom: 4upx solid #f2f2f2;
+}
+
+.uni-padding-wrap {
+	margin: 0upx;
+	height: 82upx;
+	width: 100%;
+	padding: 0upx;
+	overflow: hidden;
+}
+
+.queListBox {
+	padding: 0upx 30upx;
+}
+
+.queList {
+	border-bottom: 2upx solid #f3f3f3;
+	padding: 25upx 0upx;
+	display: flex;
+}
+
+.queLitl {
+	width: 70upx;
+	height: 70upx;
+	overflow: hidden;
+	background: #f00000;
+	margin-right: 30upx;
+	margin-top: 10upx;
+}
+
+.queLitltx {
+	line-height: 35upx;
+	color: #ffffff;
+	text-align: center;
+	font-size: 22upx;
+}
+
+.queLiTextBox {
+	flex: 1;
+}
+
+.queLiTexttl {
+	font-size: 26upx;
+	color: #333333;
+	width: 500upx;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+.queLiTexttx {
+	font-size: 22upx;
+	color: #888888;
+}
+
+.queLiTexttx text {
+	font-size: 22upx;
+	color: #888888;
+	display: inline-block;
+	margin-right: 20upx;
+}
+
+.queLiTexttime {
+	text-align: right;
+	font-size: 22upx;
+	color: #888888;
+}

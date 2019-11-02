@@ -1,0 +1,212 @@
+.seachTopBox {
+	height: 88upx;
+}
+
+.seachTop {
+	position: fixed;
+	left: 0px;
+	width: 100%;
+}
+
+view {
+	font-size: 28upx;
+	line-height: inherit
+}
+
+.example {
+	padding: 0 30upx 30upx
+}
+
+.example-title {
+	font-size: 32upx;
+	line-height: 32upx;
+	color: #777;
+	margin: 40upx 25upx;
+	position: relative
+}
+
+.example .example-title {
+	margin: 40upx 0
+}
+
+.example-body {
+	padding: 0 40upx
+}
+
+.uni-common-mt {
+	color: #7a7e83;
+	font-size: 28upx;
+	padding: 30upx;
+}
+
+.title {
+	font-size: 15px;
+	line-height: 20px;
+	color: #333333;
+	padding: 15px;
+}
+
+.city {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	width: 100%;
+	margin-left: 8px;
+	white-space: nowrap;
+}
+
+.input-view {
+	width: 92%;
+	display: flex;
+	background-color: #e7e7e7;
+	height: 30px;
+	border-radius: 15px;
+	padding: 0 4%;
+	flex-wrap: nowrap;
+	margin: 7px 0;
+	line-height: 30px;
+}
+
+.input-view .uni-icon {
+	line-height: 30px !important;
+}
+
+.input-view .input {
+	height: 30px;
+	line-height: 30px;
+	width: 94%;
+	padding: 0 3%;
+}
+
+.uninavbaheaderleft {
+	width: 0px !important;
+}
+
+.history-title {
+	display: flex;
+	justify-content: space-between;
+	padding: 20upx 30upx;
+	padding-bottom: 0;
+	font-size: 34upx;
+	color: #333;
+}
+
+.history-title .uni-icon {
+	font-size: 40upx;
+}
+
+.history-content {
+	display: flex;
+	flex-wrap: wrap;
+	padding: 15upx;
+}
+
+.history-item {
+	padding: 4upx 35upx;
+	border: 1px #f1f1f1 solid;
+	background: #fff;
+	border-radius: 50upx;
+	margin: 12upx 10upx;
+	color: #999;
+}
+
+.history-list-box {
+	/* margin: 10upx 0; */
+}
+
+.history-list-item {
+	padding: 30upx 0;
+	margin-left: 30upx;
+	border-bottom: 1px #EEEEEE solid;
+	font-size: 28upx;
+}
+
+.no-data {
+	text-align: center;
+	color: #999;
+	margin: 100upx;
+}
+
+.queListBox {
+	padding: 0upx 30upx;
+}
+
+.queListishi {
+	padding: 20upx 30upx;
+	color: #888888;
+}
+
+.queList {
+	border-bottom: 2upx solid #f3f3f3;
+	padding: 25upx 0upx;
+	display: flex;
+}
+
+.queLitl {
+	width: 70upx;
+	height: 70upx;
+	overflow: hidden;
+	background: #f00000;
+	margin-right: 30upx;
+	margin-top: 10upx;
+}
+
+.queLitltx {
+	line-height: 35upx;
+	color: #ffffff;
+	text-align: center;
+	font-size: 22upx;
+}
+
+.queLiTextBox {
+	flex: 1;
+}
+
+.queLiTexttl {
+	font-size: 26upx;
+	color: #333333;
+	width: 500upx;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+.queLiTexttx {
+	font-size: 22upx;
+	color: #888888;
+}
+
+.queLiTexttx text {
+	font-size: 22upx;
+	color: #888888;
+	display: inline-block;
+	margin-right: 20upx;
+}
+
+.queLiTexttime {
+	text-align: right;
+	font-size: 22upx;
+	color: #888888;
+	margin-top: 10upx;
+}
+
+.qudatatpleb {
+	display: inline-block;
+	height: 32upx;
+	line-height: 32upx;
+	padding: 0upx 20upx;
+	border-radius: 16upx;
+	background: #f3f3f3;
+	font-size: 20upx;
+	color: #333333;
+	margin: 10upx 10upx 0upx 0upx;
+}
+
+.htjdfBox {
+	display: flex;
+}
+
+.htjdfleft {
+	flex: 1;
+}

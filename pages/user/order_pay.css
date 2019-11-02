@@ -1,0 +1,100 @@
+.potnqlistBox {
+	padding: 0upx 30upx 100upx 30upx;
+}
+
+.xhfuflbBox {
+	padding-top: 30upx;
+}
+
+.xhfuflbtl {
+	color: #333333;
+	min-width: 160upx;
+	height: 70upx;
+	line-height: 70upx;
+}
+
+.xhfuflbtzHe {}
+
+.xhfuflbtzzz {}
+
+.uni-list-cell-pd {
+	padding: 22upx 10upx 22upx 20upx;
+}
+
+.potnqlist {
+	display: flex;
+	margin-top: 30upx;
+}
+
+.potnqlistl {
+	color: #333333;
+	min-width: 160upx;
+	height: 70upx;
+	line-height: 70upx;
+}
+
+.potnqredou {
+	line-height: 72upx;
+	padding: 20upx 15upx;
+	background: #F0F0F0;
+	border-radius: 6upx;
+}
+
+.potnqlistx .uni-input {
+	padding: 0upx;
+	height: 70upx;
+	line-height: 70upx;
+	width: 100%;
+	background: none;
+	color: #666666;
+}
+
+.potnredoutl {
+	color: #333333;
+	min-width: 160upx;
+	height: 70upx;
+	line-height: 70upx;
+	flex: 1;
+}
+
+.potnqlistx {
+	flex: 1;
+	height: 72upx;
+	line-height: 72upx;
+	border-bottom: 2upx solid #eeeeee;
+}
+
+.potnqlixze {
+	flex: 1;
+	height: 72upx;
+	line-height: 72upx;
+}
+
+.potnqlixze image {
+	width: 50upx;
+	height: 50upx;
+	position: relative;
+	top: 10upx;
+	margin-right: 15upx;
+}
+
+.potnqlixze .text_1 {
+	color: #666666;
+}
+
+.potnsbBox {
+	position: fixed;
+	left: 0upx;
+	bottom: 0upx;
+	width: 100%;
+	z-index: 90;
+}
+
+.potnsbBox button {
+	background: #FBA81F;
+	border-radius: 0upx;
+}
+
+.potnsbBox button::after {
+	border: none;
+}

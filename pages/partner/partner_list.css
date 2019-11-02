@@ -1,0 +1,59 @@
+page {
+	background: #F6F6F6;
+}
+
+.coopeListBoxbb {
+	padding: 13upx 0upx;
+}
+
+.coopeListBox {
+	padding: 13upx 25upx;
+}
+
+.coopeList {
+	background: #ffffff;
+	padding: 20upx;
+	display: flex;
+}
+
+.coopeTlile {
+	width: 260upx;
+	text-align: center;
+}
+
+.coopeTlimg {
+	width: 160upx;
+	height: 75upx;
+	display: inline-block;
+}
+
+.coopeTlimg image {
+	height: 100%;
+	width: 100%;
+}
+
+.coopeTltl {
+	color: #333333;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+.coopeTxBox {
+	flex: 1;
+	padding-left: 10upx;
+}
+
+.coopeTxt {
+	line-height: 55upx;
+}
+
+.coopeTxt .text_1 {
+	color: #888888;
+	font-size: 24upx;
+}
+
+.coopeTxt .text_2 {
+	color: #333333;
+	font-size: 24upx;
+}

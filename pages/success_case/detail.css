@@ -1,0 +1,111 @@
+.cinchBox {}
+
+video {
+	width: 100%;
+}
+
+.sitestop {
+	background: #ffffff;
+	padding: 30upx;
+	border-bottom: 6upx solid #F6F6F6;
+}
+
+.sitesMidBox {
+	background: #ffffff;
+	padding: 15upx 30upx;
+}
+
+.sitesMidtl {
+	font-size: 32upx;
+	color: #333333;
+	margin-bottom: 20upx;
+}
+
+.qnquConttl {
+	font-size: 24upx;
+	color: #333333;
+	margin-bottom: 15upx;
+}
+
+.qnquConttex_1 {
+	font-size: 24upx;
+	color: #888888;
+	margin-bottom: 15upx;
+}
+
+.qnquConttex_2 {
+	font-size: 24upx;
+	color: #DD4F42;
+	margin-bottom: 15upx;
+}
+
+.sitestime {
+	font-size: 22upx;
+	color: #888888;
+}
+
+.findconnerBox {
+	padding: 10upx 0upx;
+}
+
+.findconnerhz {
+	display: flex;
+	padding: 10upx;
+	box-shadow: 0upx 0upx 20upx #dddddd;
+	position: relative;
+}
+
+.findconntishi {
+	position: absolute;
+	top: 0upx;
+	right: 0upx;
+	background: #FBA51B;
+	padding: 0upx 6upx;
+	font-size: 22upx;
+	color: #ffffff;
+	height: 35upx;
+	line-height: 35upx;
+	z-index: 100;
+}
+
+.findcerhzimg {
+	width: 270upx;
+	height: 205upx;
+	overflow: hidden;
+	border: 1px solid #eeeeee;
+}
+
+.findcerhzimg image {
+	width: 100%;
+	height: 100%;
+}
+
+.findconnerhztx {
+	padding: 0upx 0upx 0upx 20upx;
+	flex: 1;
+}
+
+.dconnerhztxtl {
+	color: #333333;
+	font-size: 28upx;
+}
+
+.dconnerhztxzjin {
+	color: #666666;
+	font-size: 24upx;
+}
+
+.dconnerhztxzjin .text_1 {
+	color: #F00000;
+	font-size: 24upx;
+}
+
+.dconnerhyouh .text_1 {
+	color: #4C4C4C;
+	background: #DADADA;
+	font-size: 24upx;
+	display: inline-block;
+	margin: 10upx 10upx 0upx 0upx;
+	padding: 0upx 12upx;
+	border-radius: 4upx;
+}

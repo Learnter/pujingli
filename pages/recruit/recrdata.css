@@ -1,0 +1,112 @@
+page {
+	background: #F1F1F1;
+}
+
+.neirheiziBox {
+	padding-bottom: 100upx;
+}
+
+.redattopBox {
+	padding: 20upx;
+	margin-bottom: 20upx;
+	background: #ffffff;
+}
+
+.redattoptl {
+	font-size: 30upx;
+	color: #333333;
+	padding-right: 10upx;
+	line-height: 40upx;
+	margin-bottom: 10upx;
+}
+
+.redattosinshu {
+	font-size: 30upx;
+	color: #FB7257;
+	white-space: nowrap;
+	line-height: 40upx;
+	height: 40upx;
+}
+
+.redakill {
+	color: #666666;
+	font-size: 26upx;
+	display: inline-block;
+	margin-left: 10upx;
+	line-height: 40upx;
+}
+
+.welfareBox {
+	padding: 15upx 0upx;
+}
+
+.welfare {
+	display: inline-block;
+	height: 44upx;
+	line-height: 44upx;
+	margin: 0upx 20upx 20upx 0upx;
+	color: #666666;
+	font-size: 24upx;
+	padding: 0upx 30upx;
+	border-radius: 5upx;
+	background: #EAF5F7;
+}
+
+.weldtshi {
+	font-size: 24upx;
+	color: #888888;
+}
+
+.redattokzBox {
+	padding: 20upx;
+	margin-bottom: 20upx;
+	background: #ffffff;
+}
+
+.rekzbtitleBox {
+	margin-bottom: 15upx;
+	display: flex;
+}
+
+.rekzbtitIco {
+	width: 60upx;
+}
+
+.rekzbtitle {
+	color: #333333;
+	font-size: 30upx;
+}
+
+.zhuanbnrBox {
+	font-size: 24upx;
+	color: #666666;
+}
+
+.gsidizmch {
+	color: #333333;
+	font-size: 28upx;
+	margin-bottom: 10upx;
+}
+
+.gsidizhi {
+	color: #333333;
+	font-size: 24upx;
+}
+
+.potnsbBox {
+	position: fixed;
+	left: 0upx;
+	bottom: 0upx;
+	width: 100%;
+	z-index: 90;
+}
+
+.potnsbBox .potnsblink {
+	background: #FBA81F;
+	border-radius: 0upx;
+	height: 92upx;
+	line-height: 92upx;
+	text-align: center;
+	width: 100%;
+	color: #ffffff;
+}

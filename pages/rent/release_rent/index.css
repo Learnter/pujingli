@@ -1,0 +1,110 @@
+.releabBox {
+	padding-bottom: 100upx;
+}
+
+.releabTl {
+	padding: 20upx 30upx;
+	background: #FFF8DA;
+	color: #666666;
+}
+
+.releabTl .text_1 {
+	color: #FBA81F;
+}
+
+.potnsbBox {
+	position: fixed;
+	left: 0upx;
+	bottom: 0upx;
+	width: 100%;
+	z-index: 90;
+}
+
+.potnsbBox button {
+	background: #FBA81F;
+	border-radius: 0upx;
+}
+
+.potnsbBox button::after {
+	border: none;
+}
+
+.releabList {
+	padding: 25upx 30upx;
+	display: flex;
+	border-bottom: 2upx solid #eeeeee;
+}
+
+.releabLitl {
+	flex: 1;
+}
+
+.releabLitl text {
+	color: #333333;
+}
+
+.releabLitl .text_1 {
+	color: #FBA81F;
+	display: inline-block;
+	margin-right: 20upx;
+}
+
+.releabtitle {
+	padding: 20upx;
+	line-height: 60upx;
+}
+
+.releabtitle .i {
+	font-weight: 800;
+	margin-right: 5upx;
+}
+
+.releaimaddBox {
+	padding: 20upx 30upx;
+	display: flex;
+}
+
+.releaimadlt {
+	flex: 1;
+	text-align: left;
+}
+
+.releaimadzho {
+	flex: 1;
+	text-align: center;
+}
+
+.releaimadrit {
+	flex: 1;
+	text-align: right;
+}
+
+.tishisaa {
+	display: inline-block;
+	color: #333333;
+	width: 190upx;
+	text-align: center;
+	font-size: 24upx;
+}
+
+.releaimadcont {
+	display: inline-block;
+	width: 190upx;
+	height: 190upx;
+	border: 2upx solid #eeeeee;
+	text-align: center;
+}
+
+.releaimadcontimg {
+	padding-top: 40upx;
+}
+
+.releaimadcontimg image {
+	width: 65upx;
+	height: 65upx;
+}
+
+.releaimadcontx {
+	color: #888888;
+	font-size: 24upx;
+}
